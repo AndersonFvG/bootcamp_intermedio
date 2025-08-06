@@ -59,4 +59,10 @@
             position: relative;
             width: 100%;
         }
-     
+        a{
+            text-decoration: none;
+        }
+        a:hover{
+            color: #4b4b4b;
+            text-decoration:double;
+        }
